@@ -11,11 +11,11 @@
     "MSLPressure":"1013"
     "MSLTemperature":"15",
     "Temperature":"15",
-    "PrecipitationRate": " ",
-    "PrecipitationType": " ",
+    "PrecipitationRate": "x",
+    "PrecipitationType": "x",
     "Visibility":"10",
-    "CloudBas":"",
-    "CloudCeiling":" "
+    "CloudBas":"x",
+    "CloudCeiling":"x"
   },
   {
     "Id": "002",
