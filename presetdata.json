@@ -1,14 +1,32 @@
 [
-  {
+   {
     "Id": "001",
+    "Name": "Clear Sky",
+    "Description": "Very Boring",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523,
+    "Image":"dotnet_bot.png",
+    "WeatherIcon":"fullsun.png",
+    "FlightRule":"VFR",
+    "MSLPressure":"1013"
+    "MSLTemperature":"15",
+    "Temperature":"15",
+    "PrecipitationRate": "",
+    "PrecipitationType: "",
+    "Visibility":"10",
+    "CloudBas":"",
+    "CloudCeiling":""
+  },
+  {
+    "Id": "002",
     "Name": "EGTB",
-    "Description": "Description 1",
+    "Description": EGTB 24 3kt Crosswind",
     "Latitude": -8.783195,
     "Longitude": 34.508523
   },
   {
-    "Id": "002",
-    "Name": "EGTK",
+    "Id": "003",
+    "Name": "EGTB",
     "Description": "Description 2",
     "Latitude": -8.783195,
     "Longitude": 34.508523
