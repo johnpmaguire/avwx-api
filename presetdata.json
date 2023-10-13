@@ -8,6 +8,7 @@
       "Image":"dotnet_bot.png",
       "WeatherIcon":"fullsun.png",
       "FlightRule":"VFR",
+      "FlightRuleColour":"Microsoft.Maui.Graphics.Color.FromArgb('#29a329')"
       "MSLPressure":"1013",
       "MSLTemperature":"15",
       "Temperature":"15",
