@@ -2,7 +2,7 @@
    {
       "Id": "001",
       "Name": "Clear Sky",
-      "Description": "Very Boring",
+      "Description": "Very boring",
       "Latitude": -8.783195,
       "Longitude": 34.508523,
       "Image":"dotnet_bot.png",
