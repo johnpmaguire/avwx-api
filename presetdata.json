@@ -14,7 +14,7 @@
       "PrecipitationRate": "x",
       "PrecipitationType": "x",
       "Visibility":"10",
-      "CloudBas":"x",
+      "CloudBase":"x",
       "CloudCeiling":"x"
   }
  
