@@ -9,6 +9,7 @@
       "WeatherIcon":"fullsun.png",
       "FlightRule":"VFR",
       "FlightRuleColour":"Green",
+      "FlightWarnings":"No Warnings",
       "MSLPressure":"1013",
       "MSLTemperature":"15",
       "Temperature":"15",
