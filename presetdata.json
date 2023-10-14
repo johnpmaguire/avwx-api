@@ -2,7 +2,8 @@
    {
       "Id": "001",
       "Name": "Clear Sky",
-      "Description": "Very boring",
+      "Description": "Very boring, just a copy of the default Clear Sky",
+      "Details":"Excellent visibility and ISA conditions. One wind layer 270 degrees at two knots and no gusts. Three cloud layers all with zero coverage.
       "Latitude": -8.783195,
       "Longitude": 34.508523,
       "Image":"dotnet_bot.png",
