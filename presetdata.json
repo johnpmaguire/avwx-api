@@ -12,11 +12,14 @@
       "MSLPressure":"1013",
       "MSLTemperature":"15",
       "Temperature":"15",
+      "TemperatureComment":"Clear",
       "PrecipitationRate": "x",
       "PrecipitationType": "None",
       "Visibility":"10",
-      "CloudBase":"x",
-      "CloudCeiling":"x",
+      "VisibilityColour":"Green",
+      "CloudBase":"",
+      "CloudCeiling":"",
+      "Windolour":"Green",
       "WindLayerOne":
     {"altitude":"0", "direction":"270","Speed":"2","gustDuration":"0","gustInterval":"0","gustSpeed":"0","gustAngle":"0"}
   }
