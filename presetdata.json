@@ -13,6 +13,7 @@
       "MSLTemperature":"15",
       "Temperature":"15",
       "TemperatureComment":"Clear",
+      "TemperatureColour":"Green",
       "PrecipitationRate": "x",
       "PrecipitationType": "None",
       "Visibility":"10",
