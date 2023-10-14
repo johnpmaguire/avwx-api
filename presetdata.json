@@ -8,7 +8,7 @@
       "Image":"dotnet_bot.png",
       "WeatherIcon":"fullsun.png",
       "FlightRule":"VFR",
-      "FlightRuleColour":"Green",
+      "FlightRuleColour":"Red",
       "MSLPressure":"1013",
       "MSLTemperature":"15",
       "Temperature":"15",
