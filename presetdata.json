@@ -16,7 +16,9 @@
       "PrecipitationType": "None",
       "Visibility":"10",
       "CloudBase":"x",
-      "CloudCeiling":"x"
+      "CloudCeiling":"x",
+      "WindLayerOne":
+    {"altitude":"0", "direction":"270","Speed":"2","gustDuration":"0","gustInterval":"0","gustSpeed":"0","gustAngle":"0"}
   }
  
 ]
