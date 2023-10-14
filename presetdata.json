@@ -13,7 +13,7 @@
       "MSLTemperature":"15",
       "Temperature":"15",
       "PrecipitationRate": "x",
-      "PrecipitationType": "x",
+      "PrecipitationType": "None",
       "Visibility":"10",
       "CloudBase":"x",
       "CloudCeiling":"x"
