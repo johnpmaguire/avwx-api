@@ -20,8 +20,8 @@
       "Visibility":"10km+",
       "VisibilityColour":"Green",
       "CloudBase":"",
-      "CloudCeiling":"",
-      "CloudCeilingColour":"None",
+      "CloudCeiling":"None",
+      "CloudCeilingColour":"Green",
       "WindColour":"Green",
       "WindLayerOne":
     {"Altitude":"0", "Direction":"270","Speed":"2","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"}
