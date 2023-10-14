@@ -17,7 +17,7 @@
       "TemperatureColour":"Green",
       "PrecipitationRate": "x",
       "PrecipitationType": "None",
-      "Visibility":"10",
+      "Visibility":"10km+",
       "VisibilityColour":"Green",
       "CloudBase":"",
       "CloudCeiling":"",
