@@ -24,6 +24,16 @@
       "CloudBase":"",
       "CloudCeiling":"None",
       "CloudCeilingColour":"Green",
+        "CloudLayerOne":
+    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+        "CloudLayerTwo":
+    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+        "CloudLayerThree":
+    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+        "CloudLayerFour":
+    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+        "CloudLayerFive":
+    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
       "WindColour":"Green",
       "WindLayerOne":
     {"Altitude":"0", "Direction":"270","Speed":"2","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
