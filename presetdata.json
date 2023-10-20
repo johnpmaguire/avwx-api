@@ -49,7 +49,7 @@
     {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
     "WindLayerSeven":
     {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"}
-  }
+  },
   {
       "Id": "002",
       "Name": "Copy of Clear Sky",
