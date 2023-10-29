@@ -25,11 +25,11 @@
       "CloudCeiling":"None",
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+    {"Bottom":"2500", "Top":"2500","Density":"1.0","Coverage":"0.0","Scattering":"0.0"},
         "CloudLayerTwo":
-    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+    {"Bottom":"7000", "Top":"7000","Density":"1.0","Coverage":"0.0","Scattering":"0.0"},
         "CloudLayerThree":
-    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+    {"Bottom":"10000", "Top":"10250","Density":"1.0","Coverage":"0.0","Scattering":"0.5"},
         "CloudLayerFour":
     {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
         "CloudLayerFive":
