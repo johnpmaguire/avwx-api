@@ -160,7 +160,7 @@
       "Latitude": -8.783195,
       "Longitude": 34.508523,
       "Image":"eggpovercast2500ft.png",
-      "WeatherIcon":"fog.png",
+      "WeatherIcon":"overcast.png",
       "FlightRule":"IFR",
       "FlightRuleColour":"Red",
       "FlightWarnings":"No Warnings",
