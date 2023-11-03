@@ -174,8 +174,8 @@
       "Particulates":"6.5",
       "Visibility":"1.2km",
       "VisibilityColour":"red",
-      "CloudBase":"4000",
-      "CloudCeiling":"None",
+      "CloudBase":"2500",
+      "CloudCeiling":"2500",
       "CloudCeilingColour":"Red",
         "CloudLayerOne":
     {"Bottom":"3300", "Top":"3600","Density":"0.02","Coverage":"0.35","Scattering":"0.25"},
