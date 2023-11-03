@@ -172,7 +172,7 @@
       "PrecipitationRate": "0.25",
       "PrecipitationType": "R",
       "Particulates":"6.5",
-      "Visibility":"1.2km",
+      "Visibility":"3500m",
       "VisibilityColour":"red",
       "CloudBase":"2500",
       "CloudCeiling":"2500",
