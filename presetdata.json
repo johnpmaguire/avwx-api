@@ -101,8 +101,59 @@
     "WindLayerSeven":
     {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
   },
-   {
+    {
       "Id": "003",
+      "Name": "EGTB High clouds",
+      "Description": "EGTB nice summers day .",
+      "Details":"Excellent visibility, high level clouds and calm airs. ",
+      "Latitude": -8.783195,
+      "Longitude": 34.508523,
+      "Image":"egtbmistymorningtower.png",
+      "WeatherIcon":"fog.png",
+      "FlightRule":"VFR",
+      "FlightRuleColour":"Green",
+      "FlightWarnings":"No Warnings",
+      "MSLPressure":"1024.2",
+      "MSLTemperature":"23",
+      "Temperature":"23",
+      "TemperatureComment":"Clear",
+      "TemperatureColour":"Green",
+      "PrecipitationRate": "0",
+      "PrecipitationType": "None",
+      "Particulates":"0.5",
+      "Visibility":"10km+",
+      "VisibilityColour":"Green",
+      "CloudBase":"None",
+      "CloudCeiling":"11000",
+      "CloudCeilingColour":"Green",
+        "CloudLayerOne":
+    {"Bottom":"1100", "Top":"18000","Density":"0.02","Coverage":"0.35","Scattering":"0.25"},
+        "CloudLayerTwo":
+    {"Bottom":"12500", "Top":"15000","Density":"0.3","Coverage":"0.25","Scattering":"0.05"},
+        "CloudLayerThree":
+    {"Bottom":"15000", "Top":"23000","Density":"0.4","Coverage":"0.05","Scattering":"0.0"},
+        "CloudLayerFour":
+    {"Bottom":"22000", "Top":"27000","Density":"0.4","Coverage":"0.15","Scattering":"0.15"},
+        "CloudLayerFive":
+    {"Bottom":"2200", "Top":"32000","Density":".04","Coverage":"0.05","Scattering":"0.15"},
+      "WindColour":"Green",
+      "WindLayerOne":
+    {"Altitude":"0", "Direction":"302","Speed":"4","GustDuration":"16","GustInterval":"37","GustSpeed":"0.6","GustAngle":"296"},
+       "WindLayerTwo":
+    {"Altitude":"1000", "Direction":"310","Speed":"8","GustDuration":"6","GustInterval":"17","GustSpeed":"0.9","GustAngle":"301"},
+       "WindLayerThree":
+    {"Altitude":"2000", "Direction":"312","Speed":"8","GustDuration":"4","GustInterval":"26","GustSpeed":"1.5","GustAngle":"305"},
+        "WindLayerFour":
+    {"Altitude":"5000", "Direction":"320","Speed":"22","GustDuration":"0.2","GustInterval":"8","GustSpeed":"0.4","GustAngle":"322"},
+        "WindLayerFive":
+    {"Altitude":"10000", "Direction":"305","Speed":"26","GustDuration":"0.2","GustInterval":"4","GustSpeed":"0.4","GustAngle":"308"},
+      "WindLayerSix":
+    {"Altitude":"18000", "Direction":"308","Speed":"30","GustDuration":".3","GustInterval":"0.4","GustSpeed":"1.5","GustAngle":"302"},
+    "WindLayerSeven":
+    {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
+  },
+   {
+      "Id": "004",
       "Name": "EGGP Overcast ",
       "Description": "Overcast at 4000feet.",
       "Details":"Visibiltiy 1200m reduced further in showers. ",
