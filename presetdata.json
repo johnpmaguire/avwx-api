@@ -100,7 +100,7 @@
     {"Altitude":"18000", "Direction":"308","Speed":"30","GustDuration":".3","GustInterval":"0.4","GustSpeed":"1.5","GustAngle":"302"},
     "WindLayerSeven":
     {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
-  }
+  },
    {
       "Id": "003",
       "Name": "EGGP Overcast ",
