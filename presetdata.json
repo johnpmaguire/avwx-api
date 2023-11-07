@@ -22,7 +22,7 @@
       "Visibility":"10km+",
       "VisibilityColour":"Green",
       "CloudBase":"0",
-      "CloudCeiling":"None",
+      "CloudCeiling":0,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
     {"Bottom":2500, "Top":2500,"Density":1.0,"Coverage":0.0,"Scattering":0.0},
