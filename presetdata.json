@@ -18,10 +18,10 @@
       "TemperatureColour":"Green",
       "PrecipitationRate": 0,
       "PrecipitationType": "None",
-      "Particulates":"0",
+      "Particulates":0,
       "Visibility":"10km+",
       "VisibilityColour":"Green",
-      "CloudBase":"",
+      "CloudBase":"0",
       "CloudCeiling":"None",
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
@@ -76,9 +76,9 @@
       "CloudCeiling":0,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":3300, "Top":3600,"Density":0.02,"Coverage":0.35,Scattering:0.25},
+    {"Bottom":3300, "Top":3600,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
         "CloudLayerTwo":
-    {"Bottom":3600, "Top":5100,"Density:0.6,"Coverage":0.65,"Scattering":0.85},
+    {"Bottom":3600, "Top":5100,"Density":0.6,"Coverage":0.65,"Scattering":0.85},
         "CloudLayerThree":
     {"Bottom":5500, "Top":8500,"Density":0.4,"Coverage":0.05,"Scattering":0.0},
         "CloudLayerFour":
