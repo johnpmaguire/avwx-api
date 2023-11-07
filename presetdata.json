@@ -127,7 +127,7 @@
       "CloudCeiling":11000,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":1100, "Top":18000,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
+    {"Bottom":11000, "Top":18000,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
         "CloudLayerTwo":
     {"Bottom":12500, "Top":15000,"Density":0.3,"Coverage":0.25,"Scattering":0.05},
         "CloudLayerThree":
