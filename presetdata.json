@@ -36,19 +36,19 @@
     {"Bottom":0, "Top":2700,"Density":0.08,"Coverage":0.95,"Scattering":0.65},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":0, "Direction":270,"Speed":2,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+    {"Altitude":0, "Direction":270,"Speed":2,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
        "WindLayerTwo":
-    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
        "WindLayerThree":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
         "WindLayerFour":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
         "WindLayerFive":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
       "WindLayerSix":
-    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
+    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
     "WindLayerSeven":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0}
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0}
   },
   {
       "Id": 2,
@@ -87,19 +87,19 @@
     {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustDirection":296},
        "WindLayerTwo":
-    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustDirection":301},
        "WindLayerThree":
-    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustDirection":305},
         "WindLayerFour":
-    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustDirection":322},
         "WindLayerFive":
-    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustDirection":308},
       "WindLayerSix":
-    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustDirection":302},
     "WindLayerSeven":
-    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustDirection":310}
   },
     {
       "Id": 3,
@@ -138,19 +138,19 @@
     {"Bottom":2200, "Top":32000,"Density":0.04,"Coverage":0.05,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustDirection":296},
        "WindLayerTwo":
-    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustDirection":301},
        "WindLayerThree":
-    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustDirection":305},
         "WindLayerFour":
-    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustDirection":322},
         "WindLayerFive":
-    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustDirection":308},
       "WindLayerSix":
-    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustDirection":302},
     "WindLayerSeven":
-    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustDirection":310}
   },
    {
       "Id": 4,
@@ -189,18 +189,18 @@
     {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustDirection":296},
        "WindLayerTwo":
-    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustDirection":301},
        "WindLayerThree":
-    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustDirection":305},
         "WindLayerFour":
-    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustDirection":322},
         "WindLayerFive":
-    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustDirection":308},
       "WindLayerSix":
-    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustDirection":302},
     "WindLayerSeven":
-    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustDirection":310}
   }
 ]
