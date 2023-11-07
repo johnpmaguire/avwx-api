@@ -1,6 +1,6 @@
 [
    {
-      "Id": 001,
+      "Id": 1,
       "Name": "Clear Sky",
       "Description": "Very boring, just a copy of the default Clear Sky",
       "Details":"Excellent visibility and ISA conditions. One wind layer 270 degrees at two knots and no gusts. Three cloud layers all with zero coverage.",
@@ -51,7 +51,7 @@
      {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0}
   },
   {
-      "Id": 002,
+      "Id": 2,
       "Name": "EGTB Morning FOG",
       "Description": "A light low lying fog.",
       "Details":"Excellent visibility above the fog. 2km at ground level. ",
@@ -102,7 +102,7 @@
     {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
   },
     {
-      "Id": 003,
+      "Id": 3,
       "Name": "EGTB High clouds",
       "Description": "EGTB nice summers day .",
       "Details":"Excellent visibility, high level clouds and calm airs. ",
@@ -153,7 +153,7 @@
     {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
   },
    {
-      "Id": 004,
+      "Id": 4,
       "Name": "EGGP Overcast ",
       "Description": "Overcast at 4000feet.",
       "Details":"Visibiltiy 1200m reduced further in showers. ",
