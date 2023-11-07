@@ -1,6 +1,6 @@
 [
    {
-      "Id": "001",
+      "Id": 001,
       "Name": "Clear Sky",
       "Description": "Very boring, just a copy of the default Clear Sky",
       "Details":"Excellent visibility and ISA conditions. One wind layer 270 degrees at two knots and no gusts. Three cloud layers all with zero coverage.",
@@ -11,12 +11,12 @@
       "FlightRule":"VFR",
       "FlightRuleColour":"Green",
       "FlightWarnings":"No Warnings",
-      "MSLPressure":"1013",
-      "MSLTemperature":"15",
-      "Temperature":"15",
+      "MSLPressure":1013,
+      "MSLTemperature":15,
+      "Temperature":15,
       "TemperatureComment":"Clear",
       "TemperatureColour":"Green",
-      "PrecipitationRate": "0",
+      "PrecipitationRate": 0,
       "PrecipitationType": "None",
       "Particulates":"0",
       "Visibility":"10km+",
@@ -25,33 +25,33 @@
       "CloudCeiling":"None",
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":"2500", "Top":"2500","Density":"1.0","Coverage":"0.0","Scattering":"0.0"},
+    {"Bottom":2500, "Top":2500,"Density":1.0,"Coverage":0.0,"Scattering":0.0},
         "CloudLayerTwo":
-    {"Bottom":"7000", "Top":"7000","Density":"1.0","Coverage":"0.0","Scattering":"0.0"},
+    {"Bottom":7000, "Top":7000,"Density":1.0,"Coverage":0.0,"Scattering":0.0},
         "CloudLayerThree":
-    {"Bottom":"10000", "Top":"10250","Density":"1.0","Coverage":"0.0","Scattering":"0.5"},
+    {"Bottom":10000, "Top":10250,"Density":1.0,"Coverage":0.0,"Scattering":0.5},
         "CloudLayerFour":
-    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+    {"Bottom":0, "Top":2700,"Density":0.08,"Coverage":0.95,"Scattering":0.65},
         "CloudLayerFive":
-    {"Bottom":"0", "Top":"2700","Density":".08","Coverage":"0.95","Scattering":"0.65"},
+    {"Bottom":0, "Top":2700,"Density":0.08,"Coverage":0.95,"Scattering":0.65},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":"0", "Direction":"270","Speed":"2","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
+    {"Altitude":0, "Direction":270,"Speed":2,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
        "WindLayerTwo":
-    {"Altitude":"", "Direction":"","Speed":"","GustDuration":"","GustInterval":"","GustSpeed":"","GustAngle":""},
+    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
        "WindLayerThree":
-    {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
         "WindLayerFour":
-    {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
         "WindLayerFive":
-    {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
       "WindLayerSix":
-    {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"},
+    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0},
     "WindLayerSeven":
-    {"Altitude":"0", "Direction":"0","Speed":"0","GustDuration":"0","GustInterval":"0","GustSpeed":"0","GustAngle":"0"}
+     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustAngle":0}
   },
   {
-      "Id": "002",
+      "Id": 002,
       "Name": "EGTB Morning FOG",
       "Description": "A light low lying fog.",
       "Details":"Excellent visibility above the fog. 2km at ground level. ",
@@ -62,47 +62,47 @@
       "FlightRule":"VFR",
       "FlightRuleColour":"Orange",
       "FlightWarnings":"No Warnings",
-      "MSLPressure":"1002.8",
-      "MSLTemperature":"3",
-      "Temperature":"3",
+      "MSLPressure":1003,
+      "MSLTemperature":3,
+      "Temperature":3,
       "TemperatureComment":"Light Fog",
       "TemperatureColour":"Green",
-      "PrecipitationRate": "0",
+      "PrecipitationRate": 0,
       "PrecipitationType": "None",
-      "Particulates":"4.5",
+      "Particulates":4.5,
       "Visibility":"2km",
       "VisibilityColour":"Orange",
-      "CloudBase":"4500",
-      "CloudCeiling":"None",
+      "CloudBase":4500,
+      "CloudCeiling":0,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":"3300", "Top":"3600","Density":"0.02","Coverage":"0.35","Scattering":"0.25"},
+    {"Bottom":3300, "Top":3600,"Density":0.02,"Coverage":0.35,Scattering:0.25},
         "CloudLayerTwo":
-    {"Bottom":"3600", "Top":"5100","Density":"0.6","Coverage":"0.65","Scattering":"0.85"},
+    {"Bottom":3600, "Top":5100,"Density:0.6,"Coverage":0.65,"Scattering":0.85},
         "CloudLayerThree":
-    {"Bottom":"5500", "Top":"8500","Density":"0.4","Coverage":"0.05","Scattering":"0.0"},
+    {"Bottom":5500, "Top":8500,"Density":0.4,"Coverage":0.05,"Scattering":0.0},
         "CloudLayerFour":
-    {"Bottom":"12000", "Top":"17000","Density":"0.4","Coverage":"0.15","Scattering":"0.15"},
+    {"Bottom":12000, "Top":17000,"Density":0.4,"Coverage":0.15,"Scattering":0.15},
         "CloudLayerFive":
-    {"Bottom":"12000", "Top":"22000","Density":".04","Coverage":"0.35","Scattering":"0.15"},
+    {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":"0", "Direction":"302","Speed":"4","GustDuration":"16","GustInterval":"37","GustSpeed":"0.6","GustAngle":"296"},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
        "WindLayerTwo":
-    {"Altitude":"1000", "Direction":"310","Speed":"8","GustDuration":"6","GustInterval":"17","GustSpeed":"0.9","GustAngle":"301"},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
        "WindLayerThree":
-    {"Altitude":"2000", "Direction":"312","Speed":"8","GustDuration":"4","GustInterval":"26","GustSpeed":"1.5","GustAngle":"305"},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
         "WindLayerFour":
-    {"Altitude":"5000", "Direction":"320","Speed":"22","GustDuration":"0.2","GustInterval":"8","GustSpeed":"0.4","GustAngle":"322"},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
         "WindLayerFive":
-    {"Altitude":"10000", "Direction":"305","Speed":"26","GustDuration":"0.2","GustInterval":"4","GustSpeed":"0.4","GustAngle":"308"},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
       "WindLayerSix":
-    {"Altitude":"18000", "Direction":"308","Speed":"30","GustDuration":".3","GustInterval":"0.4","GustSpeed":"1.5","GustAngle":"302"},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
     "WindLayerSeven":
-    {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
   },
     {
-      "Id": "003",
+      "Id": 003,
       "Name": "EGTB High clouds",
       "Description": "EGTB nice summers day .",
       "Details":"Excellent visibility, high level clouds and calm airs. ",
@@ -113,47 +113,47 @@
       "FlightRule":"VFR",
       "FlightRuleColour":"Green",
       "FlightWarnings":"No Warnings",
-      "MSLPressure":"1024.2",
-      "MSLTemperature":"23",
-      "Temperature":"23",
+      "MSLPressure":1024,
+      "MSLTemperature":23,
+      "Temperature":23,
       "TemperatureComment":"Few Clouds",
       "TemperatureColour":"Green",
-      "PrecipitationRate": "0",
+      "PrecipitationRate": 0,
       "PrecipitationType": "None",
-      "Particulates":"0.5",
+      "Particulates":0.5,
       "Visibility":"10km+",
       "VisibilityColour":"Green",
-      "CloudBase":"None",
-      "CloudCeiling":"11000",
+      "CloudBase":0,
+      "CloudCeiling":11000,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":"1100", "Top":"18000","Density":"0.02","Coverage":"0.35","Scattering":"0.25"},
+    {"Bottom":1100, "Top":18000,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
         "CloudLayerTwo":
-    {"Bottom":"12500", "Top":"15000","Density":"0.3","Coverage":"0.25","Scattering":"0.05"},
+    {"Bottom":12500, "Top":15000,"Density":0.3,"Coverage":0.25,"Scattering":0.05},
         "CloudLayerThree":
-    {"Bottom":"15000", "Top":"23000","Density":"0.4","Coverage":"0.05","Scattering":"0.0"},
+    {"Bottom":15000, "Top":23000,"Density":0.4,"Coverage":0.05,"Scattering":0.0},
         "CloudLayerFour":
     {"Bottom":"22000", "Top":"27000","Density":"0.4","Coverage":"0.15","Scattering":"0.15"},
         "CloudLayerFive":
-    {"Bottom":"2200", "Top":"32000","Density":".04","Coverage":"0.05","Scattering":"0.15"},
+    {"Bottom":2200, "Top":32000,"Density":0.04,"Coverage":0.05,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":"0", "Direction":"302","Speed":"4","GustDuration":"16","GustInterval":"37","GustSpeed":"0.6","GustAngle":"296"},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
        "WindLayerTwo":
-    {"Altitude":"1000", "Direction":"310","Speed":"8","GustDuration":"6","GustInterval":"17","GustSpeed":"0.9","GustAngle":"301"},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
        "WindLayerThree":
-    {"Altitude":"2000", "Direction":"312","Speed":"8","GustDuration":"4","GustInterval":"26","GustSpeed":"1.5","GustAngle":"305"},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
         "WindLayerFour":
-    {"Altitude":"5000", "Direction":"320","Speed":"22","GustDuration":"0.2","GustInterval":"8","GustSpeed":"0.4","GustAngle":"322"},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
         "WindLayerFive":
-    {"Altitude":"10000", "Direction":"305","Speed":"26","GustDuration":"0.2","GustInterval":"4","GustSpeed":"0.4","GustAngle":"308"},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
       "WindLayerSix":
-    {"Altitude":"18000", "Direction":"308","Speed":"30","GustDuration":".3","GustInterval":"0.4","GustSpeed":"1.5","GustAngle":"302"},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
     "WindLayerSeven":
-    {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
   },
    {
-      "Id": "004",
+      "Id": 004,
       "Name": "EGGP Overcast ",
       "Description": "Overcast at 4000feet.",
       "Details":"Visibiltiy 1200m reduced further in showers. ",
@@ -164,43 +164,43 @@
       "FlightRule":"IFR",
       "FlightRuleColour":"Red",
       "FlightWarnings":"No Warnings",
-      "MSLPressure":"996",
-      "MSLTemperature":"8",
-      "Temperature":"7",
+      "MSLPressure":996,
+      "MSLTemperature":8,
+      "Temperature":7,
       "TemperatureComment":"Overcast",
       "TemperatureColour":"Green",
-      "PrecipitationRate": "0.25",
+      "PrecipitationRate": 0.25,
       "PrecipitationType": "R",
-      "Particulates":"6.5",
+      "Particulates":6.5,
       "Visibility":"3500m",
       "VisibilityColour":"red",
-      "CloudBase":"2500",
-      "CloudCeiling":"2500",
+      "CloudBase":2500,
+      "CloudCeiling":2500,
       "CloudCeilingColour":"Red",
         "CloudLayerOne":
-    {"Bottom":"3300", "Top":"3600","Density":"0.02","Coverage":"0.35","Scattering":"0.25"},
+    {"Bottom":3300, "Top":3600,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
         "CloudLayerTwo":
-    {"Bottom":"3900", "Top":"7400","Density":"0.8","Coverage":"0.85","Scattering":"0.05"},
+    {"Bottom":3900, "Top":7400,"Density":0.8,"Coverage":0.85,"Scattering":0.05},
         "CloudLayerThree":
-    {"Bottom":"5500", "Top":"8500","Density":"0.4","Coverage":"0.05","Scattering":"0.0"},
+    {"Bottom":5500, "Top":8500,"Density":0.4,"Coverage":0.05,"Scattering":0.0},
         "CloudLayerFour":
-    {"Bottom":"12000", "Top":"17000","Density":"0.4","Coverage":"0.15","Scattering":"0.15"},
+    {"Bottom":12000, "Top":17000,"Density":0.4,"Coverage":0.15,"Scattering":0.15},
         "CloudLayerFive":
-    {"Bottom":"12000", "Top":"22000","Density":".04","Coverage":"0.35","Scattering":"0.15"},
+    {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":"0", "Direction":"302","Speed":"4","GustDuration":"16","GustInterval":"37","GustSpeed":"0.6","GustAngle":"296"},
+    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustAngle":296},
        "WindLayerTwo":
-    {"Altitude":"1000", "Direction":"310","Speed":"8","GustDuration":"6","GustInterval":"17","GustSpeed":"0.9","GustAngle":"301"},
+    {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustAngle":301},
        "WindLayerThree":
-    {"Altitude":"2000", "Direction":"312","Speed":"8","GustDuration":"4","GustInterval":"26","GustSpeed":"1.5","GustAngle":"305"},
+    {"Altitude":2000, "Direction":312,"Speed":8,"GustDuration":4,"GustInterval":26,"GustSpeed":1.5,"GustAngle":305},
         "WindLayerFour":
-    {"Altitude":"5000", "Direction":"320","Speed":"22","GustDuration":"0.2","GustInterval":"8","GustSpeed":"0.4","GustAngle":"322"},
+    {"Altitude":5000, "Direction":320,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":0.4,"GustAngle":322},
         "WindLayerFive":
-    {"Altitude":"10000", "Direction":"305","Speed":"26","GustDuration":"0.2","GustInterval":"4","GustSpeed":"0.4","GustAngle":"308"},
+    {"Altitude":10000, "Direction":305,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":0.4,"GustAngle":308},
       "WindLayerSix":
-    {"Altitude":"18000", "Direction":"308","Speed":"30","GustDuration":".3","GustInterval":"0.4","GustSpeed":"1.5","GustAngle":"302"},
+    {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustAngle":302},
     "WindLayerSeven":
-    {"Altitude":"24000", "Direction":"315","Speed":"25","GustDuration":"0.7","GustInterval":"1.5","GustSpeed":"0.8","GustAngle":"310"}
+    {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustAngle":310}
   }
 ]
