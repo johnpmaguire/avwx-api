@@ -76,7 +76,7 @@
       "CloudCeiling":0,
       "CloudCeilingColour":"Green",
         "CloudLayerOne":
-    {"Bottom":3300, "Top":3600,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
+    {"Bottom":-3300, "Top":580,"Density":0.02,"Coverage":0.35,"Scattering":0.25},
         "CloudLayerTwo":
     {"Bottom":3600, "Top":5100,"Density":0.6,"Coverage":0.65,"Scattering":0.85},
         "CloudLayerThree":
