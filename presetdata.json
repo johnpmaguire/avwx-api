@@ -87,7 +87,7 @@
     {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
       "WindColour":"Green",
       "WindLayerOne":
-    {"Altitude":0, "Direction":302,"Speed":4,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustDirection":306},
+    {"Altitude":0, "Direction":302,"Speed":2,"GustDuration":16,"GustInterval":37,"GustSpeed":0.6,"GustDirection":306},
        "WindLayerTwo":
     {"Altitude":1000, "Direction":310,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":0.9,"GustDirection":301},
        "WindLayerThree":
