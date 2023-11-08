@@ -38,17 +38,17 @@
       "WindLayerOne":
     {"Altitude":0, "Direction":270,"Speed":2,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
        "WindLayerTwo":
-    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
+    {"Altitude":1000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
        "WindLayerThree":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
+     {"Altitude":2000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
         "WindLayerFour":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
+     {"Altitude":5000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
         "WindLayerFive":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
+     {"Altitude":10000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
       "WindLayerSix":
-    {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
+    {"Altitude":18000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0},
     "WindLayerSeven":
-     {"Altitude":0, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0}
+     {"Altitude":24000, "Direction":0,"Speed":0,"GustDuration":0,"GustInterval":0,"GustSpeed":0,"GustDirection":0}
   },
   {
       "Id": 2,
