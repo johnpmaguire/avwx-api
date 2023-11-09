@@ -202,5 +202,56 @@
     {"Altitude":18000, "Direction":308,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":1.5,"GustDirection":302},
     "WindLayerSeven":
     {"Altitude":24000, "Direction":315,"Speed":25,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":0.8,"GustDirection":310}
+  },
+   {
+      "Id": 5,
+      "Name": "EGGP 27 Minimums ",
+      "Description": "Overcast at 700feet.",
+      "Details":"Visiblity is very poor down to 700ft in thick cloud and light rain. The runway is visible just prior to minimums. Wind is from 220 at 11kts gusts from the south up to 12kts cross wind is 8kts, 12kts in stronger gusts.  ",
+      "Latitude": -8.783195,
+      "Longitude": 34.508523,
+      "Image":"eggpovercast2500ft.png",
+      "WeatherIcon":"overcast.png",
+      "FlightRule":"IFR",
+      "FlightRuleColour":"Red",
+      "FlightWarnings":"No Warnings",
+      "MSLPressure":1002,
+      "MSLTemperature":12,
+      "Temperature":13,
+      "TemperatureComment":"Overcast",
+      "TemperatureColour":"Green",
+      "PrecipitationRate": 0.05,
+      "PrecipitationType": "R",
+      "Particulates":6.5,
+      "Visibility":"3500m",
+      "VisibilityColour":"red",
+      "CloudBase":2500,
+      "CloudCeiling":2500,
+      "CloudCeilingColour":"Red",
+        "CloudLayerOne":
+    {"Bottom":700, "Top":3600,"Density":0.8,"Coverage":0.95,"Scattering":0.95},
+        "CloudLayerTwo":
+    {"Bottom":3900, "Top":7400,"Density":0.8,"Coverage":0.85,"Scattering":0.05},
+        "CloudLayerThree":
+    {"Bottom":5500, "Top":8500,"Density":0.4,"Coverage":0.05,"Scattering":0.0},
+        "CloudLayerFour":
+    {"Bottom":12000, "Top":17000,"Density":0.4,"Coverage":0.15,"Scattering":0.15},
+        "CloudLayerFive":
+    {"Bottom":12000, "Top":22000,"Density":0.04,"Coverage":0.35,"Scattering":0.15},
+      "WindColour":"Green",
+      "WindLayerOne":
+    {"Altitude":0, "Direction":220,"Speed":8,"GustDuration":16,"GustInterval":37,"GustSpeed":3.6,"GustDirection":180},
+       "WindLayerTwo":
+    {"Altitude":1000, "Direction":210,"Speed":8,"GustDuration":6,"GustInterval":17,"GustSpeed":3.9,"GustDirection":190},
+       "WindLayerThree":
+    {"Altitude":2000, "Direction":200,"Speed":10,"GustDuration":4,"GustInterval":26,"GustSpeed":4.5,"GustDirection":190},
+        "WindLayerFour":
+    {"Altitude":5000, "Direction":200,"Speed":22,"GustDuration":0.2,"GustInterval":8,"GustSpeed":6.5,"GustDirection":185},
+        "WindLayerFive":
+    {"Altitude":10000, "Direction":200,"Speed":26,"GustDuration":0.2,"GustInterval":4,"GustSpeed":6.0,"GustDirection":180},
+      "WindLayerSix":
+    {"Altitude":18000, "Direction":200,"Speed":30,"GustDuration":0.3,"GustInterval":0.4,"GustSpeed":8.0,"GustDirection":170},
+    "WindLayerSeven":
+    {"Altitude":24000, "Direction":215,"Speed":30,"GustDuration":0.7,"GustInterval":1.5,"GustSpeed":5.8,"GustDirection":180}
   }
 ]
