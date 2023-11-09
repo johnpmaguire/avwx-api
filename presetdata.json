@@ -210,7 +210,7 @@
       "Details":"Visiblity is very poor down to 700ft in thick cloud and light rain. The runway is visible just prior to minimums. Wind is from 220 at 11kts gusts from the south up to 12kts cross wind is 8kts, 12kts in stronger gusts.  ",
       "Latitude": -8.783195,
       "Longitude": 34.508523,
-      "Image":"eggpMinimums.png",
+      "Image":"eggpminimums.png",
       "WeatherIcon":"overcast.png",
       "FlightRule":"IFR",
       "FlightRuleColour":"Red",
